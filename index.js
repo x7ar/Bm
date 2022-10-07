@@ -164,7 +164,7 @@ client.on(`interactionCreate`,async(interaction)=>{
             await i.wait(5000)
             await i.editReply({ components: [ {
               type: 1, components: [
-                { type: 2, style: 5, custom_id:"urls", url:interaction.fields.getTextInputValue("url_one"), label:interaction.fields.getTextInputValue("name_url_one"),  emoji: '938532585234124850' },
+                { type: 2, style: 5, custom_id:"urlss", url:interaction.fields.getTextInputValue("url_one"), label:interaction.fields.getTextInputValue("name_url_one"),  emoji: '938532585234124850' },
                 { type: 2, style: 3,  custom_id:"submit", label:"submit", disabled:false ,emoji: '938532585234124850' }, 
 
 
