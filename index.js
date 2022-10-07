@@ -420,4 +420,4 @@ client.on("modalSubmitInteraction",async(interaction)=>{
 
     
 
-client.login("MTAyMjYyOTI4NzI3NjMxODc3MQ.Ghbyyu.v8cRb2XYSY6yISx0BqnyiWRsEoDy0Mx13orvYs")
+client.login("")
